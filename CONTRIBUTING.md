@@ -120,7 +120,7 @@ git checkout -b GH-issuenumber-title-of-issue
 
 ### Work and commit
 
-Do you work, and commit as you see fit.Make your commit messages helpful. 
+Do you work, and commit as you see fit. Make your commit messages helpful. 
 
 ### Push your changes up to GitHub.
 
@@ -159,4 +159,3 @@ Finally, don't forget that it is human to make mistakes! We all do. Let’s work
 ### Thanks
 
 Thanks to the [Fedora Code of Conduct](https://getfedora.org/code-of-conduct) and [JSConf Code of Conduct](http://jsconf.com/codeofconduct.html).
-
