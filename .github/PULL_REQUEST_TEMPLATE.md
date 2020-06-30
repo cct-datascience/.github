@@ -38,7 +38,7 @@ eg: Bug fix for widget so that it now correctly thrombs the tubas to provide cle
 ## Focus of Pull Request:
 <!--- Indicate the main focus of the PR. Additional information can be added below in the Hints section -->
 Reviewers should focus on the following aspects of this pull request. All comments are welcome regardless of which items are checked off.
-- [ ] All of the below (no need to check off the other boxes)
+- [ ] Inform others of new features and changes
 - [ ] There are no errors or inconsistencies
 - [ ] Everything appears clear and easy to understand
 - [ ] Suggest improvements
