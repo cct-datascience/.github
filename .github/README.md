@@ -23,4 +23,4 @@ Please see the [Code of Conduct](https://github.com/AgPipeline/.github/blob/mast
 # Contact information
 Please email us if you want access to our Slack channel.
 
-[Email](mailto:dlebauer@email.arizona.edu)?Subject=GitHub%20Query
+[Email](mailto:dlebauer@email.arizona.edu?Subject=GitHub%20Query)
