@@ -47,4 +47,8 @@ Reviewers should focus on the following aspects of this pull request. All commen
 ## Hints to reviewers:
 <!--- Provide additional information to help reviewers focus on meaningful changes -->
 <!--- For example: Corrected indentation in function foo99() - no text or code was changed -->
+
+<!-- **specific aspects to focus on or ignore**-->
+<!-- you can @mention specific people to have them focus on specific changes -->
+<!-- ask reviewers to ignore any known issues or future features that are out of scope for this PR-->
 <!--- This can be left blank, but it's better to write 'N/A' if you don't have any hints -->
