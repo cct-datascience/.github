@@ -1,10 +1,3 @@
----
-name: Pull Request
-about: Fill out this template before submitting a Pull Request.
-title: Pull Request
-labels: 'pull request'
-assignees: ''
----
 <!--- Provide a general summary of your changes in the Title field above -->
 <!--- Please select appropriate Priority, Status,and Type labels -->
 <!--- If you do not have permission to select labels please state which labels you would like -->
@@ -14,7 +7,6 @@ assignees: ''
 High level description of your changes, for example:
 * Why is this change required?
 * Does it close an open issue? (if so, please link; otherwise describe the problem that it solves) 
-* Have you tested the changes?
 * Provide a link to all issues that this pull request directly addresses (no need to add tickets to already merged, or merge requested, changes)
 * Provide any meaningful links and references to documentation, code, etc to better understand this pull request
 -->
@@ -38,7 +30,25 @@ eg: Bug fix for widget so that it now correctly thrombs the tubas to provide cle
 - [ ] I have added tests to cover my changes
 - [ ] All new and existing tests passed
 
+## Time frame for completing Pull Request review (from creation date):
+- [ ] As soon as possible
+- [ ] In the next two weeks
+- [ ] In the next month
+
+## Focus of Pull Request:
+<!--- Indicate the main focus of the PR. Additional information can be added below in the Hints section -->
+Reviewers should focus on the following aspects of this pull request. All comments are welcome regardless of which items are checked off.
+- [ ] Inform others of new features and changes
+- [ ] There are no errors or inconsistencies
+- [ ] Everything appears clear and easy to understand
+- [ ] Suggest improvements
+- [ ] Identify areas where functionality and/or documentation is missing
+
 ## Hints to reviewers:
 <!--- Provide additional information to help reviewers focus on meaningful changes -->
 <!--- For example: Corrected indentation in function foo99() - no text or code was changed -->
+
+<!-- **specific aspects to focus on or ignore**-->
+<!-- you can @mention specific people to have them focus on specific changes -->
+<!-- ask reviewers to ignore any known issues or future features that are out of scope for this PR-->
 <!--- This can be left blank, but it's better to write 'N/A' if you don't have any hints -->
