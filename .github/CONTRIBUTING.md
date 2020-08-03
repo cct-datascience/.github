@@ -18,6 +18,8 @@ New features are directed toward developing and extending the AgPipeline computa
 
 If you need any help, please create a [new issue](https://github.com/terraref/computing-pipeline/issues/new).
 
+Our [OSF site](https://osf.io/tzmhp/wiki/home/) has additional information on [issues and pull requests](https://osf.io/tzmhp/wiki/Issues%20and%20Pull%20Requests/) as well as other information.
+
 ## Related Projects
 
 This pipeline combines a number of related projects. 
@@ -138,7 +140,7 @@ Some things to keep in mind:
 * if there are automated CI (Continuous Integration) checks performed, there's no need for reviewers to perform those tasks
 * If the CI performs style reviews (such as using `pylint`) reviewers don't need to do that
 * If the CI performs testing reviewers again don't need to do that. However, reviewing test scripts and such can be part of the review
-* Let reviewers know of anything they should ignore (for example: "ignore the man behind the curtain") and why
+* Let reviewers know of anything they should ignore (for example: "ignore the function behind the curtain") and why
 
 ### Reviewing a Pull Request
 We recommend reading the following before reviewing Pull Requests: https://github.com/margarethchan/Compassionate-Code-Reviews#compassionate-code-reviews
