@@ -1,3 +1,4 @@
+<!-- https://github.com/AgPipeline/.github/blob/master/.github/CONTRIBUTING.md#pull-request -->
 <!--- Provide a general summary of your changes in the Title field above -->
 <!--- Please select appropriate Priority, Status,and Type labels -->
 <!--- If you do not have permission to select labels please state which labels you would like -->
@@ -7,7 +8,7 @@
 High level description of your changes, for example:
 * Why is this change required?
 * Does it close an open issue? (if so, please link; otherwise describe the problem that it solves) 
-* Provide a link to all issues that this pull request directly addresses (no need to add tickets to already merged, or merge requested, changes)
+* Provide a link to all issues that this pull request directly addresses (no need to add tickets to previous merged, or merge requested, changes)
 * Provide any meaningful links and references to documentation, code, etc to better understand this pull request
 -->
 
@@ -24,7 +25,7 @@ eg: Bug fix for widget so that it now correctly thrombs the tubas to provide cle
 <!--- Go over all the following points, and put an `x` in all the boxes that apply and provide details as needed. -->
 <!--- Feel free to write a new ticket if some work still needs to be done. eg: updating documentation -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] I have read the documentation on [CONTRIBUTING](https://github.com/AgPipeline/Organization-info) <!-- (please 'x' every time if you've read the documents) -->
+- [ ] I have read the documentation on [CONTRIBUTING](https://github.com/AgPipeline/Organization-info) <!-- (please 'x' every time if you've read the document) -->
 - [ ] My updates require a change to the documentation <!-- If the documentation is already updated, no need to 'x' this -->
 - [ ] I have updated the documentation accordingly
 - [ ] I have added tests to cover my changes
@@ -47,8 +48,6 @@ Reviewers should focus on the following aspects of this pull request. All commen
 ## Hints to reviewers:
 <!--- Provide additional information to help reviewers focus on meaningful changes -->
 <!--- For example: Corrected indentation in function foo99() - no text or code was changed -->
-
-<!-- **specific aspects to focus on or ignore**-->
-<!-- you can @mention specific people to have them focus on specific changes -->
-<!-- ask reviewers to ignore any known issues or future features that are out of scope for this PR-->
-<!--- This can be left blank, but it's better to write 'N/A' if you don't have any hints -->
+<!-- Please @mention specific reviewers with hints on what's expected from their review -->
+<!-- Ask reviewers to ignore any known issues or future features that are out of scope for this PR -->
+<!-- This can be left blank, but it's better to write 'N/A' if you don't have any hints -->
