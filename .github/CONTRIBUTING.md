@@ -16,9 +16,12 @@ There are many ways to get in touch:
 
 New features are directed toward developing and extending the AgPipeline computational infrastructure. 
 
-If you need any help, please create a [new issue](https://github.com/terraref/computing-pipeline/issues/new).
+If you need any help there are several options:
+* create a [new issue](https://github.com/terraref/computing-pipeline/issues/new)
+* search the [existing issues](https://github.com/AgPipeline/issues-and-projects/issues) that are open and closed  
+* and lastly, email the [maintainer](https://github.com/AgPipeline) of the organization (look for the email address at the top of the page)
 
-Our [OSF site](https://osf.io/tzmhp/wiki/home/) has additional information on [issues and pull requests](https://osf.io/tzmhp/wiki/Issues%20and%20Pull%20Requests/) as well as other information.
+Our [OSF site](https://osf.io/tzmhp/wiki/home/) has additional information on [issues and pull requests](https://osf.io/tzmhp/wiki/Issues%20and%20Pull%20Requests/), as well as other information.
 
 ## Related Projects
 
@@ -39,19 +42,21 @@ Some of the related software we will be using and contributing to.
     - Create an issue in GitHub, assuming one does not already exist.
 	- Clearly describe the issue including steps to reproduce when it is a bug.
 	- Make sure you fill in the earliest version that you know has the issue.
-- Ask @dlebauer or @chris-schnaufer to add you to the AgPipeline project if you plan on fixing the issue.
+
+Please refer to our OSF [issues and pull requests](https://osf.io/tzmhp/wiki/Issues%20and%20Pull%20Requests/) page for more information.
 
 ## Contributing Text or Code
 
+Please refer to our OSF [issues and pull requests](https://osf.io/tzmhp/wiki/Issues%20and%20Pull%20Requests/) page for more information.
+
 ### Overview
 
-When you add a significant **new feature**, please create an issue first, to allow others to comment and give feedback. 
+When you add a new feature or make other changes, please create an issue first, to allow others to comment and give feedback. 
 
 When you have created a new feature or non-trivial change to existing code, create a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
-**Branching and Pull Requests**: Although many core developers have write permissions on the AgPipeline repositories, 
-_please use the feature branch workflow_ (below) in order to allow pull requests, automated testing, and code review.
-
+**Branching and Pull Requests**<br/>
+The preferred workflow for making changes is the fork and branch approach.  
 
 ### Web and Desktop Interfaces
 
