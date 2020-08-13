@@ -55,3 +55,4 @@ Reviewers should focus on the following aspects of this pull request. All commen
 ## Optional: issue links this Pull Request resolves
 <!-- If unable to link to an issue this Pull Request (PR) resolves, please add it here -->
 <!-- Please place non-issue links elsewhere -->
+<!-- Also see: https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword -->
