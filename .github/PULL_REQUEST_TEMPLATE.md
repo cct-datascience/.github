@@ -51,3 +51,8 @@ Reviewers should focus on the following aspects of this pull request. All commen
 <!-- Please @mention specific reviewers with hints on what's expected from their review -->
 <!-- Ask reviewers to ignore any known issues or future features that are out of scope for this PR -->
 <!-- This can be left blank, but it's better to write 'N/A' if you don't have any hints -->
+
+## Optional: issue links this Pull Request resolves
+<!-- If unable to link to an issue this Pull Request (PR) resolves, please add it here -->
+<!-- Please place non-issue links elsewhere -->
+<!-- Also see: https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword -->
