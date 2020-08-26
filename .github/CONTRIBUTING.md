@@ -53,10 +53,9 @@ Please refer to our OSF [issues and pull requests](https://osf.io/tzmhp/wiki/Iss
 
 When you add a new feature or make other changes, please create an issue first, to allow others to comment and give feedback. 
 
-When you have created a new feature or change to existing code or documentation, create a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
-
-**Branching and Pull Requests**<br/>
 The preferred workflow for making changes is the [fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) and [branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#creating-a-branch) approach.
+
+When you have created a new feature or change to existing code or documentation, create a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) and solicit feedback.
 
 ### Adding Features and Submitting Changes
 
@@ -65,8 +64,8 @@ Branches should focus on fixing or adding a single feature or set of closely rel
 If more than one person is working on the same code, make sure to keep your master branch in sync with the master branch of the repository.
 
 Name your branch in a way that makes it easy for others to know what it's for.
-Examples include including the change(s) to be made, or an issue number, or both.
-For example: `readme_test_instructions`, or `issue_321_blob_support`. 
+For example, include the change(s) to be made, or an issue number, or both.
+Examples: `readme_test_instructions`, or `issue_321_blob_support`. 
 
 #### Work and commit
 
@@ -76,7 +75,7 @@ Make your commit messages helpful.
 #### Push your changes up to GitHub.
 
 Be sure to [push](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository) your changes often to save them on the web.
-This will allow your changes to be available to yourself and other contributors.
+This will allow your changes to be available to other contributors, and yourself as needed.
 
 ### Pull Request
 
