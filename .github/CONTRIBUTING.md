@@ -21,7 +21,7 @@ If you need any help there are several options:
 * search the [existing issues](https://github.com/AgPipeline/issues-and-projects/issues) that are open and closed  
 * and lastly, email the [maintainer](https://github.com/AgPipeline) of the organization (look for the email address at the top of the page)
 
-Our [OSF site](https://osf.io/tzmhp/wiki/home/) has additional information on [issues and pull requests](https://osf.io/tzmhp/wiki/Issues%20and%20Pull%20Requests/), as well as other information.
+Our [OSF site](https://osf.io/tzmhp/wiki/home/) has additional information on [issues and pull requests](https://osf.io/tzmhp/wiki/Issues%20and%20Pull%20Requests/), as well as other information that may be useful.
 
 ## Related Projects
 
