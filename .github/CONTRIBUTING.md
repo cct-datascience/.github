@@ -69,7 +69,7 @@ Examples: `readme_test_instructions`, or `issue_321_blob_support`.
 
 #### Work and commit
 
-Do you work, and [commit](https://git-scm.com/docs/git-commit) your changes locally as you see fit.
+Do your work, and [commit](https://git-scm.com/docs/git-commit) your changes locally as you see fit.
 Make your commit messages helpful.
 
 #### Push your changes up to GitHub.
