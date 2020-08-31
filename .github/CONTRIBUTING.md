@@ -21,7 +21,7 @@ If you need any help there are several options:
 * search the [existing issues](https://github.com/AgPipeline/issues-and-projects/issues) that are open and closed  
 * and lastly, email the [maintainer](https://github.com/AgPipeline) of the organization (look for the email address at the top of the page)
 
-Our [OSF site](https://osf.io/tzmhp/wiki/home/) has additional information on [issues and pull requests](https://osf.io/tzmhp/wiki/Issues%20and%20Pull%20Requests/), as well as other information.
+Our [OSF site](https://osf.io/tzmhp/wiki/home/) has additional information on [issues and pull requests](https://osf.io/tzmhp/wiki/Issues%20and%20Pull%20Requests/), as well as other information that may be useful.
 
 ## Related Projects
 
@@ -53,41 +53,9 @@ Please refer to our OSF [issues and pull requests](https://osf.io/tzmhp/wiki/Iss
 
 When you add a new feature or make other changes, please create an issue first, to allow others to comment and give feedback. 
 
-When you have created a new feature or non-trivial change to existing code, create a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+The preferred workflow for making changes is the [fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) and [branch](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-branches#creating-a-branch) approach.
 
-**Branching and Pull Requests**<br/>
-The preferred workflow for making changes is the fork and branch approach.  
-
-### Web and Desktop Interfaces
-
-If you haven't used git before, the GitHub website and GitHub desktop client allow you to do all of the following within a graphical user interface. The GitHub interface is often the easiest way to make changes even if you do know git. These make contributing easy and fun, and are well documented.
-
-Any file can be edited in the GitHub interface, and new files can be created. 
-GitHub will create these as a new pull request.
-
-### Using Git at the Command Line for GitHub
-
-Configure your local instance of [git](https://git-scm.com/doc).
-Make sure you use an email associated with your GitHub account.
-
-```bash
-git config --global user.name "John Doe"
-git config --global user.email johndoe@example.com
-```
-
-[Fork this repository](https://github.com/AgPipeline/issues-and-projects.git)
-
-Clone your fork of this repository
-
-```bash
-git clone https://github.com/<your username>/issues-and-projects.git
-```
-
-Setup repository to be able to fetch from the master
-
-```bash
-git remote add upstream https://github.com/AgPipeline/issues-and-projects.git
-```
+When you have created a new feature or change to existing code or documentation, create a [Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) and solicit feedback.
 
 ### Adding Features and Submitting Changes
 
@@ -95,38 +63,19 @@ Always work in a branch rather than directly on the master branch.
 Branches should focus on fixing or adding a single feature or set of closely related features making it easier to review and merge your contributions.
 If more than one person is working on the same code, make sure to keep your master branch in sync with the master branch of the repository.
 
-Here is a simplified workflow on how add a new feature:
-
-#### Update to the latest version
-
-Update your master (both locally and on GitHub)
-
-```bash
-git fetch upstream
-git checkout master
-git merge upstream/master
-git push
-```
-
-#### Create a branch to do your work.
-
-A good practice is to call the branch in the form of GH-<issue-number> followed by the title of the issue. This makes it easier to find out the issue you are trying to solve and helps us to understand what is done in the branch. Calling a branch my-work is confusing. Names of branch can not have a space, and should be replaced with a hyphen.
-
-```bash
-git checkout -b GH-issuenumber-title-of-issue
-```
+Name your branch in a way that makes it easy for others to know what it's for.
+For example, include the change(s) to be made, or an issue number, or both.
+Examples: `readme_test_instructions`, or `issue_321_blob_support`. 
 
 #### Work and commit
 
-Do you work, and commit as you see fit. Make your commit messages helpful. 
+Do your work, and [commit](https://git-scm.com/docs/git-commit) your changes locally as you see fit.
+Make your commit messages helpful.
 
 #### Push your changes up to GitHub.
 
-If this is the first time pushing to GitHub you will need to use the extended command, otherwise you can simply use `git push`.
-
-```bash
-git push -u origin GH-issuenumber-title-of-issue
-```
+Be sure to [push](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository) your changes often to save them on the web.
+This will allow your changes to be available to other contributors, and yourself as needed.
 
 ### Pull Request
 
