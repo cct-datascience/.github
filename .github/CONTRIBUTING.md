@@ -23,6 +23,10 @@ If you need any help there are several options:
 
 Our [OSF site](https://osf.io/tzmhp/wiki/home/) has additional information on [issues and pull requests](https://osf.io/tzmhp/wiki/Issues%20and%20Pull%20Requests/), as well as other information that may be useful.
 
+## Code Of Conduct
+
+Refer to our [Code Of Conduct](https://github.com/AgPipeline/.github/blob/master/.github/CODE_OF_CONDUCT.md) document.
+
 ## Related Projects
 
 This pipeline combines a number of related projects. 
@@ -102,6 +106,63 @@ We recommend reading the following before reviewing Pull Requests: https://githu
 The goal of a Reviewer is to provide additional feedback on the Pull Request that's not provided by any automation.
 For example: it's possible to write complex code that passes syntax checks, styling checks, and testing; if a reviewer knows a simpler way to perform the actions, this might be a good place to suggest changes
 
-## Code Of Conduct
+## Coding Standards
 
-Refer to our [Code Of Conduct](https://github.com/AgPipeline/.github/blob/master/.github/CODE_OF_CONDUCT.md) document.
+We use automated tools to enforce coding standards wherever possible.
+
+### PyLint
+
+[PyLint](https://www.pylint.org/) is used to both check that Python code conforms to the recommended coding style, and checks for syntax errors.
+The default behavior of PyLint is modified by the `pylint.rc` file in the [Organization-info](https://github.com/AgPipeline/Organization-info) repository.
+Please also refer to our [Coding Standards](https://github.com/AgPipeline/Organization-info#python) for information on how we use [pylint](https://www.pylint.org/).
+
+The following command can be used to fetch the `pylint.rc` file:
+```bash
+wget https://raw.githubusercontent.com/AgPipeline/Organization-info/master/pylint.rc
+```
+
+Assuming the `pylint.rc` file is in the current folder, the following command can be used against the `soilmask.py` file:
+```bash
+# Assumes Python3.7+ is default Python version
+python -m pylint --rcfile ./pylint.rc soilmask.py
+``` 
+
+### PyTest
+
+Each repository that contains Python files have a`tests` folder for testing scripts.
+Files which support testing are in a `test_data` folder.
+The tests are designed to be run with [Pytest](https://docs.pytest.org/en/stable/).
+When running the tests, the root of the repository is expected to be the starting directory.
+
+The typical command line used for running the tests is as follows:
+```bash
+# Assumes Python3.7+ is default Python version
+python -m pytest -rpP
+```
+
+If [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/) is installed, it can be used to generate a code coverage report as part of running PyTest.
+The code coverage report shows how much of the code has been tested; it doesn't indicate **how well** that code has been tested.
+The modified PyTest command line including coverage is:
+```bash
+# Assumes Python3.7+ is default Python version
+python -m pytest --cov=. -rpP 
+```
+
+### shfmt
+
+[shfmt](https://github.com/mvdan/sh#shfmt) is used to ensure scripts conform to Google's shell script [style guide](https://google.github.io/styleguide/shellguide.html).
+
+A sample command line for using `shfmt` against a file named `my_script.sh` is:
+```bash
+shfmt -i 2 -ci -w my_script.sh
+```
+
+### shellcheck
+
+[shellcheck](https://www.shellcheck.net/) is used to enforce modern script coding.
+It's expected that shell scripts will pass the shellcheck testing with no reported issues.
+
+A sample command line for using `shellcheck` against a file named `my_script.sh` is:
+```bash
+shellcheck my_script.sh
+```
