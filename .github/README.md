@@ -18,7 +18,7 @@ As this is an open source project that should be useful to many people though, w
 # How to contribute
 
 We welcome all contributions! 
-Please see the [Code of Conduct](https://github.com/AgPipeline/.github/blob/master/.github/CODE_OF_CONDUCT.md) and the [CONTRIBUTING.md](https://github.com/AgPipeline/.github/blob/master/.github/CONTRIBUTING.md) for more details. 
+Please see the [Code of Conduct](https://github.com/AgPipeline/.github/blob/main/.github/CODE_OF_CONDUCT.md) and the [CONTRIBUTING.md](https://github.com/AgPipeline/.github/blob/main/.github/CONTRIBUTING.md) for more details. 
 
 # Contact information
 Please email us if you want access to our Slack channel.
