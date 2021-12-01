@@ -31,7 +31,8 @@ Organizing the event
 
 During Event 
 * [ ] Provide time for post workshop survey
+
 Follow Up
-* [ ] follow up 
-    * survey
-    * invite to office hours
+* [ ] Post to YouTube
+* [ ] Update workshop page 
+* [ ] follow up and invite participants to office hours
