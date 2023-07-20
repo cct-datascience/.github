@@ -32,7 +32,7 @@ eg: Bug fix for widget so that it now correctly thrombs the tubas to provide cle
 <!--- Go over all the following points, and put an `x` in all the boxes that apply and provide details as needed. -->
 <!--- Feel free to write a new ticket if some work still needs to be done. eg: updating documentation -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] I have read the documentation on [CONTRIBUTING](https://github.com/AgPipeline/Organization-info) <!-- (please 'x' every time if you've read the documents) -->
+- [ ] I have read the documentation on [CONTRIBUTING](https://github.com/cct-datascience/.github/blob/master/.github/CONTRIBUTING.md) <!-- (please 'x' every time if you've read the documents) -->
 - [ ] My updates require a change to the documentation <!-- If the documentation is already updated, no need to 'x' this -->
 - [ ] I have updated the documentation accordingly
 - [ ] I have added tests to cover my changes
