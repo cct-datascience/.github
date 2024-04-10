@@ -21,9 +21,9 @@ Links:
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Estimating Trends in Phenology](https://datascience.cct.arizona.edu/estimating-trends-phenology)
-- [Estimating Uncertainty in Carbon Stores](https://datascience.cct.arizona.edu/estimating-uncertainty-carbon-stores)
-- [STAC Jupyter Notebook](https://datascience.cct.arizona.edu/stac-jupyter-notebook)
-- [forestTIME](https://datascience.cct.arizona.edu/foresttime)
-- [PSInet](https://datascience.cct.arizona.edu/psinet)
+- [Drone Day 2024 Coming Up!](https://datascience.cct.arizona.edu/news/2024/02/drone-day-2024-coming)
+- [2024 Group Retreat!](https://datascience.cct.arizona.edu/news/2024/01/2024-group-retreat)
+- [Quarto Dashboards—a friendlier approach for beginners?](https://datascience.cct.arizona.edu/news/2024/01/quarto-dashboards%E2%80%94-friendlier-approach-beginners)
+- [volcalc v2.1.0 released along with publication in Frontiers in Microbiology](https://datascience.cct.arizona.edu/news/2023/12/volcalc-v210-released-along-publication-frontiers-microbiology)
+- [STAC Incubator project completed!](https://datascience.cct.arizona.edu/news/2023/11/stac-incubator-project-completed)
 <!-- BLOG-POST-LIST:END -->
