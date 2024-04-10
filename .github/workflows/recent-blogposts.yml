@@ -1,4 +1,4 @@
-name: Latest homepage content workflow
+name: Latest blog post workflow
 on:
   schedule:
     # Runs once a day
@@ -7,11 +7,11 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest homepage content
+    name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://datascience.cct.arizona.edu/rss.xml"
+          feed_list: "https://datascience.cct.arizona.edu/news-rss.xml"
           readme_path: "profile/README.md"
