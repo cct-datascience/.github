@@ -18,7 +18,7 @@ Links:
 
 ----------------------------------------
 
-### Recent Updates
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Estimating Trends in Phenology](https://datascience.cct.arizona.edu/estimating-trends-phenology)
