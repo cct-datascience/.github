@@ -21,5 +21,9 @@ Links:
 ### Recent Updates
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Estimating Trends in Phenology](https://datascience.cct.arizona.edu/estimating-trends-phenology)
+- [Estimating Uncertainty in Carbon Stores](https://datascience.cct.arizona.edu/estimating-uncertainty-carbon-stores)
+- [STAC Jupyter Notebook](https://datascience.cct.arizona.edu/stac-jupyter-notebook)
+- [forestTIME](https://datascience.cct.arizona.edu/foresttime)
+- [PSInet](https://datascience.cct.arizona.edu/psinet)
 <!-- BLOG-POST-LIST:END -->
