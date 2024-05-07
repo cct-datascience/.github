@@ -21,9 +21,9 @@ Links:
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring 2024 Bayesian Learning Group](https://datascience.cct.arizona.edu/news/spring-2024-bayesian-learning-group)
+- [Green Stormwater Infrastructure Data and Dashboard](https://datascience.cct.arizona.edu/news/green-stormwater-infrastructure-data-and-dashboard)
 - [2024 Tucson Women in Data Conference](https://datascience.cct.arizona.edu/news/2024-tucson-women-data-conference)
 - [Drone Day 2024](https://datascience.cct.arizona.edu/news/drone-day-2024)
 - [Drone Day 2024 Coming Up!](https://datascience.cct.arizona.edu/news/2024/02/drone-day-2024-coming)
-- [2024 Group Retreat!](https://datascience.cct.arizona.edu/news/2024/01/2024-group-retreat)
-- [Quarto Dashboards—a friendlier approach for beginners?](https://datascience.cct.arizona.edu/news/2024/01/quarto-dashboards%E2%80%94-friendlier-approach-beginners)
 <!-- BLOG-POST-LIST:END -->
