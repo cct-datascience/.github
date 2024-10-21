@@ -14,7 +14,6 @@ Links:
 - [Kristina Riemer](https://github.com/KristinaRiemer)
 - [Chris Schnaufer](https://github.com/Chris-Schnaufer)
 - [Eric Scott](https://github.com/Aariq)
-- [Renata Diaz](https://github.com/diazrenata)
 
 ----------------------------------------
 
