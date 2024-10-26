@@ -20,9 +20,9 @@ Links:
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jetstream2 Fast Compute Resource for Researchers](https://datascience.cct.arizona.edu/news/jetstream2-fast-compute-resource-researchers)
 - [Lab Group Handbook Template and Workshop](https://datascience.cct.arizona.edu/news/lab-group-handbook-template-and-workshop)
 - [Summer 2024 Bayesian Learning Group](https://datascience.cct.arizona.edu/news/summer-2024-bayesian-learning-group)
 - [Migrating our Group Procedures to Quarto](https://datascience.cct.arizona.edu/news/migrating-our-group-procedures-quarto)
 - [Spring 2024 Bayesian Learning Group](https://datascience.cct.arizona.edu/news/spring-2024-bayesian-learning-group)
-- [Green Stormwater Infrastructure Data and Dashboard](https://datascience.cct.arizona.edu/news/green-stormwater-infrastructure-data-and-dashboard)
 <!-- BLOG-POST-LIST:END -->
