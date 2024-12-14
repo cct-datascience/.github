@@ -20,9 +20,9 @@ Links:
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CCT DS team at US-RSE ‘24 conference](https://datascience.cct.arizona.edu/news/cct-ds-team-us-rse-24-conference)
 - [Fall 2024 Reproducibility Workshop Series](https://datascience.cct.arizona.edu/news/fall-2024-reproducibility-workshop-series)
 - [Jetstream2 Fast Compute Resource for Researchers](https://datascience.cct.arizona.edu/news/jetstream2-fast-compute-resource-researchers)
 - [Lab Group Handbook Template and Workshop](https://datascience.cct.arizona.edu/news/lab-group-handbook-template-and-workshop)
 - [Summer 2024 Bayesian Learning Group](https://datascience.cct.arizona.edu/news/summer-2024-bayesian-learning-group)
-- [Migrating our Group Procedures to Quarto](https://datascience.cct.arizona.edu/news/migrating-our-group-procedures-quarto)
 <!-- BLOG-POST-LIST:END -->
