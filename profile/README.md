@@ -23,10 +23,10 @@ This list is a sample of the wide variety of projects we've supported:
 
 |          |          |
 | :------- | :------- |
-| [PEcAn Project](https://github.com/pecanproject)| [Arizona Meteorological Network (AZMet)](https://github.com/uace-azmet/) |
-| [cred-norton-uarizona](https://github.com/cred-norton-uarizona) |  [Donald Danforth Plant Science Center](https://github.com/danforthcenter) |
-| [USA National Phenology Network](https://github.com/usa-npn/) | [SPARCd](https://github.com/CulverLab/sparcd) |
-| [The Global Ecosystems Lab](https://github.com/EcosystemEcologyLab) | [RexBaz Arizona](https://github.com/resbazaz) |
+| ![PEcAN Github logo](https://github.com/pecanproject.png?size=25)  [PEcAn Project](https://github.com/pecanproject) | ![AZMet GitHub logo](https://github.com/uace-azmet.png?size=25)  [Arizona Meteorological Network (AZMet)](https://github.com/uace-azmet/) |
+| [cred-norton-uarizona](https://github.com/cred-norton-uarizona) | ![Donald Danforth Plant Science Center](https://github.com/danforthcenter.png?size=25) [Donald Danforth Plant Science Center](https://github.com/danforthcenter) |
+| ![USA National Phenology Network GitHub logo](https://github.com/usa-npn.png?size=25) [USA National Phenology Network](https://github.com/usa-npn/) | ![SPARCd GitHub logo](https://github.com/CulverLab.png?size=25) [SPARCd](https://github.com/CulverLab/sparcd) |
+| ![The Global Ecosystems Lab GitHub logo](https://github.com/EcosystemEcologyLab.png?size=25) [The Global Ecosystems Lab](https://github.com/EcosystemEcologyLab) | ![RexBaz Arizona GitHub logo](https://github.com/resbazaz.png?size=25) [RexBaz Arizona](https://github.com/resbazaz) |
 
 And more....
 
