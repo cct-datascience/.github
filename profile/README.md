@@ -19,7 +19,7 @@ Links:
 
 ### Projects and Partners
 
-This list is a sample of the wide variety of projects we've supported:
+Here's a sample of the wide variety of projects we've supported:
 
 |          |          |
 | :------- | :------- |
