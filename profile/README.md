@@ -11,9 +11,24 @@ Links:
 
 ### Team Members
 
-- [Kristina Riemer](https://github.com/KristinaRiemer)
-- [Chris Schnaufer](https://github.com/Chris-Schnaufer)
-- [Eric Scott](https://github.com/Aariq)
+[Kristina Riemer](https://github.com/KristinaRiemer) &emsp;&emsp;&emsp;&emsp;&emsp;
+[Chris Schnaufer](https://github.com/Chris-Schnaufer) &emsp;&emsp;&emsp;&emsp;&emsp;
+[Eric Scott](https://github.com/Aariq) 
+
+----------------------------------------
+
+### Projects and Partners
+
+This list is a sample of the wide variety of projects we've supported:
+
+|          |          |
+| :------- | :------- |
+| [PEcAn Project](https://github.com/pecanproject)| [Arizona Meteorological Network (AZMet)](https://github.com/uace-azmet/) |
+| [cred-norton-uarizona](https://github.com/cred-norton-uarizona) |  [Donald Danforth Plant Science Center](https://github.com/danforthcenter) |
+| [USA National Phenology Network](https://github.com/usa-npn/) | [SPARCd](https://github.com/CulverLab/sparcd) |
+| [The Global Ecosystems Lab](https://github.com/EcosystemEcologyLab) | [RexBaz Arizona](https://github.com/resbazaz) |
+
+And more....
 
 ----------------------------------------
 
