@@ -35,9 +35,9 @@ And more....
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [volcalc version 2.2.0](https://datascience.cct.arizona.edu/news/volcalc-version-220)
 - [Data Science Team seeking new projects after losing funding](https://datascience.cct.arizona.edu/news/data-science-team-seeking-new-projects-after-losing-funding)
 - [2025 Data Science Team Retreat](https://datascience.cct.arizona.edu/news/2025-data-science-team-retreat)
 - [CCT DS team at US-RSE ‘24 conference](https://datascience.cct.arizona.edu/news/cct-ds-team-us-rse-24-conference)
 - [Fall 2024 Reproducibility Workshop Series](https://datascience.cct.arizona.edu/news/fall-2024-reproducibility-workshop-series)
-- [Jetstream2 Fast Compute Resource for Researchers](https://datascience.cct.arizona.edu/news/jetstream2-fast-compute-resource-researchers)
 <!-- BLOG-POST-LIST:END -->
