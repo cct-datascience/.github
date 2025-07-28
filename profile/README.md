@@ -1,17 +1,17 @@
 ## Communications & Cyber Technologies Data Science Group
 
-We're the CCT Data Science Group at the University of Arizona. Our mission is to improve research quality and productivity in ALVSCE and across campus through collaboration and training. We work directly with researchers to help solve unique computational challenges at every stage of the research lifecycle.
+We're the CCT Data Science Group at the University of Arizona, part of the larger [Communications & Cyber Technologies](https://cct.arizona.edu) group. Our mission is to improve research quality and productivity in ALVSCE and across campus through collaboration and training. We work directly with researchers to help solve unique computational challenges at every stage of the research lifecycle.
 
 Links:
 
 - 💻 [datascience.cct.arizona.edu](https://datascience.cct.arizona.edu/)
 - 🐘 [@cct_datascience@fosstodon.org](https://fosstodon.org/@cct_datascience)
+- 🧑‍💻 [CCT web-dev team code repos](https://github.com/orgs/webdev-cals-arizona-edu/repositories)
 
 ----------------------------------------
 
-### Team Members
+### Current Team Members
 
-[Kristina Riemer](https://github.com/KristinaRiemer) &emsp;&emsp;&emsp;&emsp;&emsp;
 [Chris Schnaufer](https://github.com/Chris-Schnaufer) &emsp;&emsp;&emsp;&emsp;&emsp;
 [Eric Scott](https://github.com/Aariq) 
 
